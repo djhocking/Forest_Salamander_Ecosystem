@@ -2,10 +2,31 @@
 .Rhistory
 
 # Example code in package build process
-*-Ex.R
+*-Ex.RData
 
 # R data files from past sessions
 .Rdata
 
 # RStudio files
 .Rproj.user/
+
+# Word documents
+*.doc
+*.docx
+
+# Excel files
+*.xlsx
+*.xlx
+
+# Folders
+AES_Grant/
+Datasheets/
+Data/
+Enclosure-IACUC/
+GIS/
+Reports/
+IACUC/
+
+# Other
+*.db
+
